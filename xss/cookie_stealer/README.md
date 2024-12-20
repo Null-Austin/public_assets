@@ -2,7 +2,7 @@
 This article is for education purposes.<br><br>
 Your on your favorite site, when Boom! You find an XSS point. And because your a nuisance to society, you decide to exploit it, to troll those nasty devs.
 ## How to started
-for this tutorial, first use a tool, for example, (https://webhook.site/)[Webhook.site], it should be able to track all the visits, and the params you send to it!
+for this tutorial, first use a tool, for example, [Webhook.site](https://webhook.site), it should be able to track all the visits, and the params you send to it!
 ## Now what?
 After you got yourself suited, you will exloit the xss to add something with your webhook, such as:
 ```javascript
